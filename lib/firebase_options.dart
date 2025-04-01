@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAHYaR9zWQhrpI06q3C14Wj0Jm95Bft_fc',
-    appId: '1:162174681428:android:2896d418bcdf84d44708c1',
+    appId: '1:162174681428:android:06b0e01ed2c180b84708c1',
     messagingSenderId: '162174681428',
     projectId: 'budgetai-10d1c',
     storageBucket: 'budgetai-10d1c.firebasestorage.app',
@@ -64,6 +64,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '162174681428',
     projectId: 'budgetai-10d1c',
     storageBucket: 'budgetai-10d1c.firebasestorage.app',
+    iosClientId: '162174681428-utniudtqnur59657jcdc7bqaos1j80ee.apps.googleusercontent.com',
     iosBundleId: 'com.durgas.templateAppBloc',
   );
 
@@ -73,16 +74,18 @@ class DefaultFirebaseOptions {
     messagingSenderId: '162174681428',
     projectId: 'budgetai-10d1c',
     storageBucket: 'budgetai-10d1c.firebasestorage.app',
+    iosClientId: '162174681428-utniudtqnur59657jcdc7bqaos1j80ee.apps.googleusercontent.com',
     iosBundleId: 'com.durgas.templateAppBloc',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyBRs_OXjMiXJdgiMAMvapfsPY90m9C9yKo',
-    appId: '1:162174681428:web:8f14fd7232b86f7c4708c1',
+    appId: '1:162174681428:web:771d1a44e101e30f4708c1',
     messagingSenderId: '162174681428',
     projectId: 'budgetai-10d1c',
     authDomain: 'budgetai-10d1c.firebaseapp.com',
     storageBucket: 'budgetai-10d1c.firebasestorage.app',
-    measurementId: 'G-8HSYKHL0ZZ',
+    measurementId: 'G-ZEF15D8CER',
   );
+
 }
