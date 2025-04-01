@@ -9,10 +9,15 @@
       "client_info": {
         "mobilesdk_app_id": "1:162174681428:android:2896d418bcdf84d44708c1",
         "android_client_info": {
-          "package_name": "com.durgas.budgetai"
+          "package_name": "com.durgas.budegetai"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "162174681428-34f15k41ta8ea99ih3dq8teon0qdnbnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAHYaR9zWQhrpI06q3C14Wj0Jm95Bft_fc"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162174681428-34f15k41ta8ea99ih3dq8teon0qdnbnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162174681428-utniudtqnur59657jcdc7bqaos1j80ee.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.durgas.templateAppBloc"
+              }
+            }
+          ]
         }
       }
     },
@@ -31,7 +48,12 @@
           "package_name": "com.durgas.budgetai"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "162174681428-34f15k41ta8ea99ih3dq8teon0qdnbnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAHYaR9zWQhrpI06q3C14Wj0Jm95Bft_fc"
@@ -39,7 +61,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162174681428-34f15k41ta8ea99ih3dq8teon0qdnbnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162174681428-utniudtqnur59657jcdc7bqaos1j80ee.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.durgas.templateAppBloc"
+              }
+            }
+          ]
         }
       }
     }
