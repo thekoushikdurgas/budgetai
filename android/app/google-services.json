@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162174681428",
+    "project_id": "budgetai-10d1c",
+    "storage_bucket": "budgetai-10d1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162174681428:android:2896d418bcdf84d44708c1",
+        "android_client_info": {
+          "package_name": "com.durgas.budgetai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYaR9zWQhrpI06q3C14Wj0Jm95Bft_fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162174681428:android:06b0e01ed2c180b84708c1",
+        "android_client_info": {
+          "package_name": "com.durgas.budgetai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYaR9zWQhrpI06q3C14Wj0Jm95Bft_fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

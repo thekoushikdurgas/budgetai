@@ -1,0 +1,2 @@
+D:/durgas/budgetapp/budgetai/android/app/.cxx/Debug/r3k692u2/x86_64/CMakeFiles/edit_cache.dir
+D:/durgas/budgetapp/budgetai/android/app/.cxx/Debug/r3k692u2/x86_64/CMakeFiles/rebuild_cache.dir
